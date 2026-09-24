@@ -1,0 +1,4 @@
+replace-chart-version-with-git: true
+generate-metadata: true
+chart-dir: ./helm/bumblebee-circleci-grant-proof-20260924
+destination: ./build
